@@ -5,13 +5,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        
-        <h1>
-         Weather App
-        </h1>
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
         <a
           className="Weather-App-link"
-          href="https://github.com/mlameb1/weather-react-homework-app/"
+          href="https://github.com/mlameb1/weather-react-app/"
           target="_blank"
           rel="noopener noreferrer"
         >
